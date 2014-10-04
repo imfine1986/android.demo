@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Testdemo</string>
+    <string name="hello_world">Hello world!this is a test</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="incorrect_toast">incorrect</string>
+    <string name="correct_test">correct</string>
+    <string name="next_button">next</string>
+    <string name="question_one">this is one</string>
+    <string name="question_two">this is two</string>
+    <string name="question_three">this is three</string>
+    <string name="question_four">this\'s four</string>
+    <string name="prev_button">prev</string>
+    <string name="warning_text_view">this is warning</string>
+    <string name="show_answer_Button">show answer</string>
+    <string name="cheat_button">cheat</string>
+
+</resources>
